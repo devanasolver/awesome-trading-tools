@@ -1,0 +1,490 @@
+[
+  {
+    "repo": "cuemacro/finmarketpy",
+    "category": "backtest",
+    "description": "Python library for backtesting trading strategies & analyzing financial markets (formerly pythalesians).",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-04-16"
+  },
+  {
+    "repo": "fasiondog/hikyuu",
+    "category": "backtest",
+    "description": "An open-source, high-performance quantitative trading framework in C++/Python focused on strategy analysis.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "fbertram/TuringTrader",
+    "category": "backtest",
+    "description": "The Open-Source Backtesting Engine/ Trading Simulator by Bertram Enterprises.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-05-19"
+  },
+  {
+    "repo": "kernc/backtesting.py",
+    "category": "backtest",
+    "description": "Small Python library for backtesting trading strategies with a simple API.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-05"
+  },
+  {
+    "repo": "nkaz001/hftbacktest",
+    "category": "backtest",
+    "description": "Free, open source, a high frequency trading and market making backtesting and trading bot, which accounts for limit orders.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2025-12-23"
+  },
+  {
+    "repo": "pmorissette/bt",
+    "category": "backtest",
+    "description": "Flexible Python backtesting framework for portfolio strategies.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "polakowo/vectorbt",
+    "category": "backtest",
+    "description": "Fast Python library for testing many strategies at once with vectorized backtests.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "stefan-jansen/zipline-reloaded",
+    "category": "backtest",
+    "description": "Maintained fork of the Zipline backtesting engine.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "defeat-beta/defeatbeta-api",
+    "category": "data",
+    "description": "An open-source alternative to Yahoo Finance's market data APIs with higher reliability.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "JerBouma/FinanceDatabase",
+    "category": "data",
+    "description": "Database of financial symbols and categories for equities, ETFs, funds and more.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "JerBouma/FinanceToolkit",
+    "category": "data",
+    "description": "Transparent and Efficient Financial Analysis.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "openbq-org/OpenBB",
+    "category": "data",
+    "description": "Open data platform for analysts, quants and AI agents, with many data sources behind one interface.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "pydata/pandas-datareader",
+    "category": "data",
+    "description": "Pull remote data sources such as FRED into pandas.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-07-21"
+  },
+  {
+    "repo": "questdb/questdb",
+    "category": "data",
+    "description": "Fast open-source time-series database, often used for tick and market data.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "ranaroussi/yfinance",
+    "category": "data",
+    "description": "Download Yahoo Finance market data in Python. For personal use, check Yahoo's terms.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "BowTiedDevil/degenbot",
+    "category": "defi",
+    "description": "Building blocks for Uniswap (V2, V3, V4), Curve V1, Solidly V2, Balancer V2 & Aave V3 arbitrage.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "alpacahq/alpaca-py",
+    "category": "exchange",
+    "description": "Official Python SDK for Alpaca stock and crypto trading and market data.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "ccxt/ccxt",
+    "category": "exchange",
+    "description": "Unified API for more than 100 crypto exchanges, in JavaScript, Python, PHP, C# and Go.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "ib-api-reloaded/ib_async",
+    "category": "exchange",
+    "description": "Python framework for Interactive Brokers, successor to ib_insync.",
+    "license": "BSD-2-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "JKorf/Binance.Net",
+    "category": "exchange",
+    "description": "C#/.NET client library for the Binance.com cryptocurrency exchange REST and WebSocket APIs, supporting Spot and Futures trading.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-30"
+  },
+  {
+    "repo": "JKorf/CryptoExchange.Net",
+    "category": "exchange",
+    "description": "Base library for building clients for crypto exchange APIs in .NET.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "pmxt-dev/pmxt",
+    "category": "exchange",
+    "description": "CCXT for prediction markets. PMXT is a unified API for trading on Polymarket, Kalshi, and more.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-30"
+  },
+  {
+    "repo": "sammchardy/python-binance",
+    "category": "exchange",
+    "description": "Python wrapper for the Binance exchange REST and WebSocket APIs.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-06-08"
+  },
+  {
+    "repo": "tardis-dev/tardis-node",
+    "category": "exchange",
+    "description": "Convenient access to tick-level real-time and historical cryptocurrency market data via Node.js.",
+    "license": "MPL-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "coding-kitties/investing-algorithm-framework",
+    "category": "framework",
+    "description": "Framework for quantitative trading.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "Drakkar-Software/OctoBot",
+    "category": "framework",
+    "description": "Free open source crypto trading bot to automate AI, Grid, DCA and TradingView strategies on Binance, Hyperliquid and 15+ exchanges.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "fabston/TradingView-Webhook-Bot",
+    "category": "framework",
+    "description": "Forward TradingView alerts to Telegram, Discord, Slack and email.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-01"
+  },
+  {
+    "repo": "freqtrade/freqtrade",
+    "category": "framework",
+    "description": "Free, open source crypto trading bot.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "freqtrade/freqtrade-strategies",
+    "category": "framework",
+    "description": "Sample strategies for Freqtrade. For learning, not a promise of profit.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-08"
+  },
+  {
+    "repo": "Haehnchen/crypto-trading-bot",
+    "category": "framework",
+    "description": "Cryptocurrency trading bot in javascript for Bitfinex, Bitmex, Binance, Bybit.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-02"
+  },
+  {
+    "repo": "hummingbot/hummingbot",
+    "category": "framework",
+    "description": "Open-source framework for market making and automated trading bots on crypto exchanges.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "iterativv/NostalgiaForInfinity",
+    "category": "framework",
+    "description": "Large community strategy for the Freqtrade bot.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "jesse-ai/jesse",
+    "category": "framework",
+    "description": "An advanced crypto trading bot written in Python.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "Lumiwealth/lumibot",
+    "category": "framework",
+    "description": "Python library for backtesting and live trading of stocks, options, crypto and futures with several brokers.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "nautechsystems/nautilus_trader",
+    "category": "framework",
+    "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture.",
+    "license": "LGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "QuantConnect/Lean",
+    "category": "framework",
+    "description": "Event-driven trading engine in C# and Python for research, backtesting and live trading.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "Superalgos/Superalgos",
+    "category": "framework",
+    "description": "Free, open-source crypto trading bot, automated bitcoin / cryptocurrency trading software, algorithmic trading bots.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-15"
+  },
+  {
+    "repo": "vnpy/vnpy",
+    "category": "framework",
+    "description": "Python framework for building quant trading systems, popular in Asian markets.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-06"
+  },
+  {
+    "repo": "AI4Finance-Foundation/FinGPT",
+    "category": "ml",
+    "description": "Open-source financial large language models and tools.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-23"
+  },
+  {
+    "repo": "AI4Finance-Foundation/FinRL",
+    "category": "ml",
+    "description": "Deep reinforcement learning library for automated trading research.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "asavinov/intelligent-trading-bot",
+    "category": "ml",
+    "description": "Intelligent Trading Bot: Automatically generating signals and trading based on machine learning and feature engineering.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-08-30"
+  },
+  {
+    "repo": "je-suis-tm/quant-trading",
+    "category": "ml",
+    "description": "Python quantitative trading strategies including VIX Calculator, Pattern Recognition, Commodity Trading Advisor, Monte Carlo.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-06-20"
+  },
+  {
+    "repo": "microsoft/qlib",
+    "category": "ml",
+    "description": "AI-oriented quant research platform from Microsoft, from data to backtests.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-14"
+  },
+  {
+    "repo": "stefan-jansen/machine-learning-for-trading",
+    "category": "ml",
+    "description": "Code for the book Machine Learning for Algorithmic Trading.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "TauricResearch/TradingAgents",
+    "category": "ml",
+    "description": "Multi-agent LLM framework that simulates a trading firm. Research use.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "zvtvz/zvt",
+    "category": "ml",
+    "description": "Modular quant framework.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-07-01"
+  },
+  {
+    "repo": "AlexWan/OsEngine",
+    "category": "platform",
+    "description": "Open Source algo trading platform.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "Fincept-Corporation/FinceptTerminal",
+    "category": "platform",
+    "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-13"
+  },
+  {
+    "repo": "StockSharp/StockSharp",
+    "category": "platform",
+    "description": "Algorithmic trading and quantitative trading open source platform to develop trading robots.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "cvxgrp/cvxportfolio",
+    "category": "portfolio",
+    "description": "Portfolio optimization and back-testing.",
+    "license": "GPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-04-27"
+  },
+  {
+    "repo": "dcajasn/Riskfolio-Lib",
+    "category": "portfolio",
+    "description": "Portfolio Optimization in Python.",
+    "license": "BSD-3-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-04"
+  },
+  {
+    "repo": "PyPortfolio/PyPortfolioOpt",
+    "category": "portfolio",
+    "description": "Financial portfolio optimization in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-07-07"
+  },
+  {
+    "repo": "ranaroussi/quantstats",
+    "category": "portfolio",
+    "description": "Portfolio analytics for quants: performance and risk statistics with tear sheets.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-27"
+  },
+  {
+    "repo": "skfolio/skfolio",
+    "category": "portfolio",
+    "description": "Python library for portfolio optimization built on top of scikit-learn.",
+    "license": "BSD-3-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-16"
+  },
+  {
+    "repo": "stefan-jansen/pyfolio-reloaded",
+    "category": "portfolio",
+    "description": "Maintained fork of Pyfolio for performance and risk analysis of trading strategies.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "bukosabino/ta",
+    "category": "ta",
+    "description": "Technical Analysis Library using Pandas and Numpy.",
+    "license": "MIT",
+    "verified": "2026-10-18",
+    "last_commit": "2026-03-18"
+  },
+  {
+    "repo": "cinar/indicator",
+    "category": "ta",
+    "description": "High-performance technical analysis indicators and backtesting framework in Go.",
+    "license": "AGPL-3.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-09-14"
+  },
+  {
+    "repo": "TA-Lib/ta-lib",
+    "category": "ta",
+    "description": "Technical analysis library: indicators and candlestick patterns, batch and streaming, native in C, Rust, Java, C#.",
+    "license": "BSD-3-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "TA-Lib/ta-lib-python",
+    "category": "ta",
+    "description": "Python wrapper for TA-Lib.",
+    "license": "BSD-2-Clause",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "ta4j/ta4j",
+    "category": "ta",
+    "description": "A Java library for technical analysis.",
+    "license": "NOASSERTION",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "tradingview/lightweight-charts",
+    "category": "ta",
+    "description": "Small, fast financial charts for the web from TradingView.",
+    "license": "Apache-2.0",
+    "verified": "2026-10-18",
+    "last_commit": "2026-10-13"
+  }
+]

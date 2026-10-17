@@ -1,0 +1,45 @@
+{
+ "tile_words": [
+  "BACKTEST",
+  "OHLCV",
+  "SHARPE",
+  "ORDERBOOK",
+  "CCXT",
+  "STRATEGY",
+  "DRAWDOWN",
+  "TICK",
+  "PORTFOLIO",
+  "RISK",
+  "ALPHA",
+  "LIVE",
+  "PAPER",
+  "QUANT",
+  "FEED",
+  "SIGNAL"
+ ],
+ "gradient": [
+  [
+   30,
+   110,
+   200
+  ],
+  [
+   150,
+   60,
+   200
+  ],
+  [
+   235,
+   120,
+   40
+  ]
+ ],
+ "title": [
+  "Trading",
+  "Tools"
+ ],
+ "title_size": 80,
+ "sub1": "BACKTEST  |  BOTS  |  DATA",
+ "sub2": "EXCHANGES  |  RISK  |  AI AGENTS",
+ "foot": "Open-source trading software, each checked for license and activity"
+}

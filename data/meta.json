@@ -1,0 +1,60 @@
+{
+ "categories": [
+  {
+   "id": "framework",
+   "title": "Trading bots and frameworks",
+   "anchor": "trading-bots-and-frameworks",
+   "blurb": "Run strategies live or on paper, with exchange connections built in."
+  },
+  {
+   "id": "backtest",
+   "title": "Backtesting and research",
+   "anchor": "backtesting-and-research",
+   "blurb": "Test an idea on past data before you risk money."
+  },
+  {
+   "id": "exchange",
+   "title": "Exchange and broker libraries",
+   "anchor": "exchange-and-broker-libraries",
+   "blurb": "Unified APIs for exchanges and brokers."
+  },
+  {
+   "id": "data",
+   "title": "Market data and downloaders",
+   "anchor": "market-data-and-downloaders",
+   "blurb": "Prices, fundamentals, order books and on-chain data."
+  },
+  {
+   "id": "ta",
+   "title": "Technical analysis and indicators",
+   "anchor": "technical-analysis-and-indicators",
+   "blurb": "Indicator libraries and charting."
+  },
+  {
+   "id": "portfolio",
+   "title": "Portfolio, risk and performance",
+   "anchor": "portfolio-risk-and-performance",
+   "blurb": "Optimize allocation and measure results."
+  },
+  {
+   "id": "ml",
+   "title": "Machine learning and AI for trading",
+   "anchor": "machine-learning-and-ai-for-trading",
+   "blurb": "Research code, models and LLM agents for markets. Results are not a promise of profit."
+  },
+  {
+   "id": "platform",
+   "title": "Research platforms and terminals",
+   "anchor": "research-platforms-and-terminals",
+   "blurb": "Full desktop, web or terminal platforms for analysis."
+  },
+  {
+   "id": "defi",
+   "title": "Crypto, DeFi and on-chain",
+   "anchor": "crypto-defi-and-on-chain",
+   "blurb": "Bots and tools that read or trade on-chain markets."
+  }
+ ],
+ "header": "<h1 align=\"center\">Awesome Trading Tools</h1>\n\n<p align=\"center\"><img src=\"assets/banner.png\" alt=\"Awesome Trading Tools\" width=\"100%\"></p>\n\n<p align=\"center\">\n<a href=\"https://awesome.re\"><img src=\"https://awesome.re/badge.svg\" alt=\"Awesome\"></a>\n<img src=\"https://img.shields.io/badge/PRs-welcome-brightgreen\" alt=\"PRs welcome\">\n<img src=\"https://img.shields.io/badge/license-CC0--1.0-blue\" alt=\"License CC0 1.0\">\n<a href=\"https://github.com/devanasolver/awesome-trading-tools/commits/main\"><img src=\"https://img.shields.io/github/last-commit/devanasolver/awesome-trading-tools\" alt=\"Last commit\"></a>\n</p>\n\n<p align=\"center\">\n<a href=\"https://github.com/devanasolver\"><img src=\"https://img.shields.io/badge/Follow-@devanasolver-181717?style=for-the-badge&logo=github\" alt=\"Follow on GitHub\"></a>\n<a href=\"https://github.com/devanasolver/awesome-trading-tools/stargazers\"><img src=\"https://img.shields.io/github/stars/devanasolver/awesome-trading-tools?style=for-the-badge&logo=github&label=Star%20this%20list\" alt=\"Star this list\"></a>\n<a href=\"https://buymeacoffee.com/isaac49\"><img src=\"https://img.shields.io/badge/Buy%20me%20a%20coffee-isaac49-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black\" alt=\"Buy me a coffee\"></a>\n</p>\n\n> Open-source libraries, bots, backtesters, data tools and AI agents for trading stocks, futures, forex and crypto. Every entry shows its license.\n\n> This list is a software index, not financial advice. Trading can lose all your money.\n\n**Rules of this list:** every repo exists, is public, is not archived, states a license and has had a commit in the last year. One plain sentence each. Star counts and claims are the authors' own, we did not test every tool. Checked 2026-10-18. See [CONTRIBUTING.md](CONTRIBUTING.md).",
+ "footer": "## How to choose\n\n- **Paper trade first.** Run any bot on a demo account for weeks before you use real money.\n- **Past results do not predict future results.** Backtests are easy to overfit. Check for look-ahead bias and fees.\n- **Read the code before you give it API keys.** Use keys with trading rights only, never withdrawal rights.\n- **Check the license.** Some tools are free for personal use and paid for firms.\n\n## Contributing\n\nSee [CONTRIBUTING.md](CONTRIBUTING.md). One entry per pull request, plain words, real sources only.\n\n## About\n\nMaintained by [@devanasolver](https://github.com/devanasolver). Listings follow the rules in CONTRIBUTING.\n\n## Sponsor me\n\nIf this list is useful, [buy me a coffee](https://buymeacoffee.com/isaac49).\n"
+}
